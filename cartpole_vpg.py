@@ -5,7 +5,7 @@ import tensorlayer as tl
 import random
 
 DISCOUNT = 0.99
-LEARNING_RATE = 1e-4
+LEARNING_RATE = 0.05
 N_OBS = 4
 N_ACTIONS = 2
 
