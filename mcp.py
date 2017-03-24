@@ -10,7 +10,7 @@ train_episodes = 50000 # total number of training episodes
 hidden_units = 50 # number of hidden units in neural network
 discount_factor = 0.99 # reward discounting factor
 epsilon = 1e-9 # epsilon of RMSProp update
-learning_rate = 0.05 # stepsize in RMSProp update
+learning_rate = 0.005 # stepsize in RMSProp update
 decay_rate = 0.9 # decay rate of RMSProp
 
 # build environment
